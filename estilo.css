@@ -1,0 +1,65 @@
+body {
+	
+	font-family: arial;
+	color: black;
+	background-color: white;
+	
+}
+
+
+	
+	h1 {
+		
+		
+			text-transform: uppercase;	
+			text-align: left;
+		
+		
+		
+	}
+	
+	
+	
+	
+	p{
+		
+		text-align: justify;
+		font-size: 12px;
+		margin-top: 100px;
+		margin-left: 5px;
+		
+		
+	} 
+	
+	.gremio {
+		
+		color: blue; 
+	}
+	
+	.inter {
+		
+		color: red; font-style: italic;
+	}
+	
+	.cbf {
+		
+		color: yellow;
+	}
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
